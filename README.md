@@ -1,6 +1,6 @@
 # Kit 1 - Trilha 1 Curso do Git e Github
 
-##Comandos básicos do Git:
+## Comandos básicos do Git:
 
 git status - verifica o estado atual do seu repositório, contendo informações de arquivos rastreados e não rastreados entre outras informações.
 git add --all - adiciona todos os arquivos(do repositório) para a seção pronta para ser commitada.
